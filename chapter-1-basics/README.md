@@ -1,5 +1,4 @@
-### Documentation notebooks
-
+### Documentation
 You can open any page of the documentation as a notebook in colab (there is a button directly on said pages) but they are also listed here if you need to:
 
 | Concept    |      Description      |  Notebook |
