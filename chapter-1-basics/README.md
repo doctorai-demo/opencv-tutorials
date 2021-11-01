@@ -1,14 +1,16 @@
 ### Documentation
 You can open any page of the documentation as a notebook in colab (there is a button directly on said pages) but they are also listed here if you need to:
 
-| Concept    |      Description      |  Notebook |
-|:----------|:-------------|------:|
-| [1. Load Image](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/1.opencv_load_image.ipynb) | Using Opencv imread Function to load image in jupyter-notebook or google colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/1.opencv_load_image.ipynb) |
-| [2. setting_getting_matrix play_with pixels](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/2.opencv_getting_setting.ipynb) | Using Opencv imread Function to load image in jupyter-notebook or google colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/2.opencv_getting_setting.ipynb) |
-| [3. Drawing](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/3.opencv_drawing.ipynb) | Using Opencv imread Function to load image in jupyter-notebook or google colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/3.opencv_drawing.ipynb) |
-
-
-
-
-
-
+| Concept    |  Notebook |
+|:----------|------:|
+| [1. Load Image](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/1.opencv_load_image.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/1.opencv_load_image.ipynb) |
+| [2. setting_getting_matrix play_with pixels](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/2.opencv_getting_setting.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/2.opencv_getting_setting.ipynb) |
+| [3. Drawing](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/3.opencv_drawing.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/3.opencv_drawing.ipynb) |
+| [4.Translate](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/4.opencv_translate.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/4.opencv_translate.ipynb) |
+| [5.Rotate](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/5.opencv_rotate.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/5.opencv_rotate.ipynb) |
+| [6.resize](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/6.opencv_resize.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/6.opencv_resize.ipynb) |
+| [7.Flipping](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/7.opencv_flipping.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/7.opencv_flipping.ipynb) |
+| [8.Image Arithmetics](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/9.opencv_image_arithmetic.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/9.opencv_image_arithmetic.ipynb) |
+| [9.Bitwise](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/10.opencv_bitwise.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/10.opencv_bitwise.ipynb) |
+| [10.Masking](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/11.opencv_masking.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/11.opencv_masking.ipynb) |
+| [10.Split_Merge](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/12.opencv_split_merge.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doctorai-demo/opencv-tutorials/blob/main/chapter-1-basics/12.opencv_split_merge.ipynb) |
